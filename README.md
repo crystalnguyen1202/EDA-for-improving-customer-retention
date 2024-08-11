@@ -81,8 +81,63 @@ This dashboard provides a comprehensive overview of the business’s financial a
 
 – Product Category profitability: The “Intimates” category has the highest TPV, suggesting it is the most profitable product category for the business. Other high-performing categories in terms of TPV include Jeans, Tops & Tees, and Fashion Hoods.
 
-## 3/ Retention cohort analysis
+### 3/ Retention cohort analysis
 A cohort analysis will be developed in order to evaluate client retention. With the use of this research, we will be able to monitor the actions of particular consumer cohorts over time and determine whether or not they are making additional purchases following their original transaction.
+
+The key elements of the above cohort analysis table:
+– Cohort Date: This column represents the starting date for each cohort or customer group being analyzed.
+
+– Columns 1-4: These columns show the performance data for each cohort, likely on a monthly or quarterly basis. The values in these columns represent some key metric being tracked, such as revenue, orders, or customer count.
+
+– Color Coding: The color-coding provides a visual indication of the performance, with green representing higher values and red representing lower values. This helps quickly identify trends and patterns in the data.
+
+– Grand Total: The last row at the bottom sums up the total values across all cohorts, giving an overall picture of the business’s performance.
+
+From the cohort analysis, I can see some key observations:
+
+– The cohorts show a generally increasing trend in their values over time, indicating the business is growing and retaining customers. There are some seasonal variations, with dips and spikes in certain periods, likely corresponding to market or business cycles.
+
+– The later cohorts (2022-2024) have higher starting values, suggesting the business is acquiring more valuable customers over time. The Grand Total row demonstrates an upward trajectory, confirming the overall growth of the business.
+
+In addition to offering insightful information about customer retention trends, cohort analysis may be used to find ways to enhance retention tactics like tailored offers or focused marketing campaigns for particular clientele.
+
+## Results
+This is an emulator project, so there wouldn’t be any concrete results like a real project.
+
+I reviewed the data after analyzing and made some of the following conclusions:
+
+– Both the clientele and the amount of orders have increased over time. But compared to the number of consumers, less purchases are completed, maybe as a result of shipping or order processing delays.
+
+– Rapid rise in the quantity of unique clients is indicative of a growing customer base. In the meanwhile, the average order value has been mostly constant, varying just slightly.
+
+– The company’s overall financial health is indicated by the profit that has increased over time. From 2019 to 2024, the company’s customer base grew steadily, with a major emphasis on gaining new clients. Better retention tactics are necessary, though, as the bulk of these clients are one-time purchasers.
+
+– The bulk of TheLook’s clientele consists of adults and retirees, which is important to take into account while developing marketing plans for these markets.
+
+– Both order growth and revenue growth are still increasing, showing overall growth, even if their growth rates have somewhat dropped over time, suggesting a slower increase.
+
+Here are some recommendations I think they are useful for the business strategy:
+
+– Improve client retention strategies: Pay attention to methods that will increase client retention because most consumers are one-time purchasers. This could consist of loyalty plans, targeted marketing initiatives, and follow-up letters to promote repeat business.
+
+– Segmented marketing campaigns: Develop marketing plans that are especially tailored to the needs and preferences of adults and retirees. This might entail creating marketing and messages specifically for certain groups of people.
+
+– Enhance order processing and shipment: Take steps to minimize any order processing or shipment delays so that the quantity of fulfilled orders more closely matches the customer base and lowers the possibility of customer discontent.
+
+– Maximize average order value: Although the average order value has not changed, search for ways to raise it via upselling, cross-selling, providing discounts or bundled items for larger-value orders.
+
+– Track and manage revenue and order growth: While these metrics are rising, keep a careful eye on the trend to spot any notable downturns. If necessary, put plans in place to promote expansion, such introducing new goods, entering new markets, or enhancing customer acquisition efforts.
+
+– Invest in customer experience: To boost happiness and loyalty, improve the total customer experience. This might entail optimizing the user experience on websites, offering top-notch customer support, and expediting the purchasing procedure.
+
+– Profit from successful advertising efforts: The Look’s multiplatform advertising techniques have proven to be successful, as seen by the notable rise in new consumers. Continue spending money on focused advertising initiatives to reach and draw in new clients in order to maintain this momentum.
+
+- – Boost customer retention efforts: Although the proportion of repeat customers has increased, it still falls short of the number of new customers that are acquired. It would be better for TheLook to concentrate on putting tactics in place that promote loyalty and recurring business.
+
+– Implement targeted marketing campaigns: Create marketing initiatives that address both prospective and current clients. To raise brand exposure and draw in new clients, this might entail spending money on influencer marketing and social media content.
+
+– Interact with current clientele: Utilize email marketing and follow-up correspondence to interact with current clients. Customer loyalty may be increased and repeat business can be encouraged with personalized incentives and suggestions.
+
 
 
 
