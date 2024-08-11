@@ -24,9 +24,13 @@ I used SQL (BigQuery), and PowerBI to finish this project.
 ![Screenshot 2024-08-12 015452](https://github.com/user-attachments/assets/d52a07e4-26fe-4129-a194-ad7ed5df0668)
 
 Based on the results of this analysis, I found that the youngest customer was 12, the oldest customer was 70. Since then, I’ve divided customers by age into four main segments:
+
 – Teenagers (12 – 19 years old)
+
 – Young Adults (20 – 34 years old)
+
 – Middle-Aged (35 – 54 years old)
+
 – Older Adults (55 – 70 years old)
 
 ![Screenshot 2024-06-12 003855](https://github.com/user-attachments/assets/25553cc3-d135-4ac5-af43-0f027e7c94d6)
