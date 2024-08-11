@@ -49,23 +49,36 @@ Total sales statistics by date for each product category over the last 3 months 
 
 ### 2/ Create metric & build a dashboard:
 It’s critical to identify the essential indicators that will offer insightful information about business performance before creating a dashboard. The aims and objectives of the company should be reflected in these indicators. These are some important parameters to take into account for inclusion:
+
 – TPV : the total revenue of all orders per month
+
 – TPO : the total number of orders per month
+
 – Total_cost : the total cost of virginity in the process of operating and selling the product per month
+
 – Total_profit : the total profit from selling goods per month
+
 – Profit_to_cost_ratio: total_profit/total_cost per month
+
 – Revenue_growth : the percentage increase in revenue per mont
+
 – Order_growth : the percentage increase in number of orders per month
+
 
 ![Screenshot 2024-08-12 020317](https://github.com/user-attachments/assets/a1f056f6-604e-46db-9ced-2eadf3e4cff9)
 
 ![Screenshot 2024-06-12 011835](https://github.com/user-attachments/assets/32586859-e096-4300-9baf-d96b7da9b923)
 
 This dashboard provides a comprehensive overview of the business’s financial and operational performance. Here are the key insights I can gather from the information presented:
+
 – Financial performance: The total profit for the business is $95.84M, while the total cost is $88.83M, indicating a healthy profit margin. The profit-to-cost ratio has fluctuated over the years, but shows an overall upward trend, suggesting improved efficiency.
+
 – Customer segmentation: The customer base is primarily divided into four segments: middle-aged, older adults, young adults, and teenagers. The middle-aged and older adult segments make up the largest portion of the customer base, accounting for over 60% of the total customers.
+
 – Revenue and Order growth: Both revenue growth and order growth have experienced significant fluctuations, with a sharp increase in 2020 followed by a decline and subsequent recovery. The revenue growth and order growth trends are closely aligned, indicating a strong correlation between these two metrics.
+
 – Top Product categories: The top-performing product categories in terms of Total Product Value (TPV) are Outerwear & Accessories, Jeans, Sweaters, Suits & Sport, and Swim. These categories appear to be the key revenue drivers for the business.
+
 – Product Category profitability: The “Intimates” category has the highest TPV, suggesting it is the most profitable product category for the business. Other high-performing categories in terms of TPV include Jeans, Tops & Tees, and Fashion Hoods.
 
 ## 3/ Retention cohort analysis
