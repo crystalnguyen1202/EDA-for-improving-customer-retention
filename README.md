@@ -132,7 +132,7 @@ Here are some recommendations I think they are useful for the business strategy:
 
 – Profit from successful advertising efforts: The Look’s multiplatform advertising techniques have proven to be successful, as seen by the notable rise in new consumers. Continue spending money on focused advertising initiatives to reach and draw in new clients in order to maintain this momentum.
 
-- – Boost customer retention efforts: Although the proportion of repeat customers has increased, it still falls short of the number of new customers that are acquired. It would be better for TheLook to concentrate on putting tactics in place that promote loyalty and recurring business.
+- Boost customer retention efforts: Although the proportion of repeat customers has increased, it still falls short of the number of new customers that are acquired. It would be better for TheLook to concentrate on putting tactics in place that promote loyalty and recurring business.
 
 – Implement targeted marketing campaigns: Create marketing initiatives that address both prospective and current clients. To raise brand exposure and draw in new clients, this might entail spending money on influencer marketing and social media content.
 
