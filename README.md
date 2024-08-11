@@ -11,6 +11,7 @@ I used SQL (BigQuery), and PowerBI to finish this project.
 ## Action
 ### 1/ Ad-hoc tasks:
 1.1 Total number of buyers and number of orders completed per month (from 01/2019 – to 04/2022)
+![Screenshot 2024-08-12 014643](https://github.com/user-attachments/assets/5ec6e19c-e59f-4be3-aa95-b2b695a0239d)
 
 
 
